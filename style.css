@@ -1,0 +1,36 @@
+body{
+    background-color: hsl(68, 89%, 52%);
+}
+.main{
+    text-align: center;
+}
+
+#convert {
+    background-color: #bba768;
+  }
+ 
+  #convert:hover {
+    background-color: #bcc768;
+  }
+
+  h1 {
+    font-family: sans-serif;
+    color: #e31515;
+  }
+
+  input {
+    align-items: center;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 25px;
+    color: #f4a55a;
+
+  }
+
+  button {
+    padding: 10px;
+    font-size: 1.2em;
+    background-color: #bba768; 
+  }
+  
+  .button hover
